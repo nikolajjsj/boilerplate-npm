@@ -4,6 +4,7 @@
 	"description": "Node.js project for the freecodecamp course: API & Microservices",
 	"keywords": ["freecodecamp", "API", "Microservices"],
 	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
